@@ -2,4 +2,4 @@ tweepy==3.8.0
 json==2.0.9
 re==2.2.1
 textblob==0.15.3
-nltk==3.4.4
+nltk==3.4.5
