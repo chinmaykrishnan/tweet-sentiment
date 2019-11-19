@@ -11,8 +11,7 @@ Scraping tweets off of twitter with a specified hashtag and analysing its sentim
 - Cleaned the tweets (removing urls, user mentions etc.)
 - Using python's textblob library, analysed each tweet and classified as positive, negative or neutral
 
-## Additional notes:
-References are as follows:
+## References:
 - https://textblob.readthedocs.io/en/dev/advanced_usage.html#sentiment-analyzers
 - https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
 - https://www.promptcloud.com/blog/scrape-twitter-data-using-python-r/
